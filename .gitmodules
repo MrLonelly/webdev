@@ -1,3 +1,6 @@
 [submodule "piscinePHP"]
 	path = piscinePHP
 	url = https://github.com/MrLonelly/piscinePHP
+[submodule "ft_minishop"]
+	path = ft_minishop
+	url = https://github.com/MrLonelly/ft_minishop
