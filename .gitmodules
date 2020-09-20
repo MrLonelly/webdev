@@ -7,3 +7,6 @@
 [submodule "lonellymvc"]
 	path = lonellymvc
 	url = https://github.com/MrLonelly/lonellymvc
+[submodule "sharepostapp"]
+	path = sharepostapp
+	url = https://github.com/MrLonelly/sharepostapp
